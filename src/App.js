@@ -18,31 +18,31 @@ function App() {
   return (
     <>
       {/* Section1 1st part */}
-      <Mcqs />
+      {/* <Mcqs /> */}
 
       {/* section2 1st part */}
-      <Employee />
+      {/* <Employee /> */}
 
       {/* Section2 2nd part */}
-      <JsonProb />
+      {/* <JsonProb /> */}
 
       {/* section2 3rd part */}
-      <Library />
+      {/* <Library /> */}
 
       {/* section3 1st part */}
-      <Age />
+      {/* <Age /> */}
 
       {/* section3 2nd part */}
-      <Arrow />
+      {/* <Arrow /> */}
 
       {/* section3 3rd part */}
-      <DiffDom />
+      {/* <DiffDom /> */}
 
       {/* section3 4th part */}
-      <IntN />
+      {/* <IntN /> */}
 
       {/* section3 5th part */}
-      <OddNumber />
+      {/* <OddNumber /> */}
 
       {/* section4 */}
       {/* <JsonProblem />     */}
